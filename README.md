@@ -22,11 +22,13 @@ How to Use:
    * Algorithm Selection: Choose the sorting algorithm to visualize.
    * Array Size: Adjust the number of elements in the array.
    * Array Generation: Generate random or sorted arrays.
-
- Enjoy Visualizing Sorting!    
      
 Color Coding:
  * Blue: Element is currently being processed.
  * Green: Elements are being compared.
  * Yellow: Element is being read.
  * Pink: Default color for elements.
+
+
+ Enjoy Visualizing Sorting!    
+     
