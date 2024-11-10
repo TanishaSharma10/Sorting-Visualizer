@@ -1,4 +1,5 @@
 _Sorting Visualizer_
+
 A Visual Exploration of Sorting Algorithms
 This repository provides a Java-based visualization tool to help you understand the inner workings of various sorting algorithms. By animating the sorting process, you can gain insights into their efficiency and complexity.
 Implemented Algorithms:
