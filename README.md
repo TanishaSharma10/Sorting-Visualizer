@@ -1,4 +1,4 @@
-**Sorting Visualizer
+# Sorting Visualizer
 
 A Visual Exploration of Sorting Algorithms
 This repository provides a Java-based visualization tool to help you understand the inner workings of various sorting algorithms. By animating the sorting process, you can gain insights into their efficiency and complexity.
@@ -22,6 +22,8 @@ How to Use:
    * Algorithm Selection: Choose the sorting algorithm to visualize.
    * Array Size: Adjust the number of elements in the array.
    * Array Generation: Generate random or sorted arrays.
+
+ Enjoy Visualizing Sorting!    
      
 Color Coding:
  * Blue: Element is currently being processed.
