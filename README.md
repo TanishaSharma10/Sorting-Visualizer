@@ -12,8 +12,7 @@ Implemented Algorithms:
    
 How to Use:
  * Clone the Repository:
-   git clone https://github.com/your-username/SortingVisualizer.git
-
+   git clone https://github.com/TanishaSharma10/Sorting-Visualizer.git
  * Compile and Run:
    Ensure you have a Java Development Kit (JDK) installed. Compile and run the main class of your project. This will launch the visualization application.
    
